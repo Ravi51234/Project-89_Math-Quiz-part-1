@@ -1,0 +1,29 @@
+body{
+    text-align:center;
+    background:skyblue;
+}
+
+#login_div{
+    margin:30px 400px;
+    border:10px ridge white;
+    border-radius:50px;
+}
+
+.player_login{
+    background:radial-gradient(#F0F8FF,#7CB9E8);
+    margin-left:20px;
+    margin-right:20px;
+    border-radius:30px;
+    padding-top:5px;
+    padding-bottom:15px;
+    padding-left:5px;
+    padding-right:5px;
+    border-color:#7CB9E8;
+    border-width:5px;
+    border-style:solid;
+}
+
+#login{
+    width:50%;
+    margin:10px;
+}
